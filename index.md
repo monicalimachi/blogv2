@@ -5,7 +5,7 @@
 <body>
  <div class="bgimg">
   <div class="topleft">
-    <p>Logo</p>
+    <p>Monica Limachi</p>
   </div>
   <div class="middle">
     <h1>COMING SOON</h1>
