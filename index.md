@@ -1,10 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-  <title>My first styled page</title>
   <link rel="stylesheet" href="mystyle.css">
 </head>
-
 <body>
  <div class="bgimg">
   <div class="topleft">
@@ -15,9 +13,7 @@
     <hr>
     <p>35 days</p>
   </div>
-  <div class="bottomleft">
-    <p>Some text</p>
-  </div>
+
 </div> 
 
 </body>
