@@ -4,13 +4,10 @@
 </head>
 <body>
  <div class="bgimg">
-  <div class="topleft">
-    <p>Monica Limachi</p>
-  </div>
   <div class="middle">
     <h1>COMING SOON</h1>
     <hr>
-    <p>35 days</p>
+    <p>Next days</p>
   </div>
 
 </div> 
