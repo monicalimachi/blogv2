@@ -2,7 +2,7 @@
 title: ""
 date: 2022-02-21T19:34:55-04:00
 draft: false
-cover: img/aboutme.jpg
+cover: "img/aboutme.jpg"
 coverAlt: "This is a post image"
 coverCaption: "Career Path"
 useRelativeCover: true
