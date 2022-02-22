@@ -6,7 +6,6 @@ cover: "/img/aboutme.jpg"
 coverCaption: "DevOps Path"
 useRelativeCover: true
 ---
-
 ## Monica is a DevOps and SDET 
 
 Working as DevOps freelancer about three years ago and as a Software Engineer about 7 years ago. In her previous role she was a Software Developer Engineer in Testing. She is now working as DevOps.
