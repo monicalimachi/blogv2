@@ -1,4 +1,4 @@
-baseurl      = "monicalimachi.github.io"
+baseurl      = "example.com"
 title        = "Monica Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
