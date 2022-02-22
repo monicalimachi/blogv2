@@ -1,13 +1,13 @@
 ---
-title: "About Me"
+title: ""
 date: 2022-02-21T19:34:55-04:00
 draft: false
 cover: "img/aboutme.jpg"
-coverAlt: "This is a post image"
-coverCaption: "Career Path"
+coverCaption: "DevOps Path"
 useRelativeCover: true
 ---
 
+![alt text](img/aboutme.jpg)
 ## Monica is a DevOps and SDET 
 
 Working as DevOps freelancer about three years ago and as a Software Engineer about 7 years ago. In her previous role she was a Software Developer Engineer in Testing. She is now working as DevOps.
