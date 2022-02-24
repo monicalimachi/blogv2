@@ -40,7 +40,7 @@ status = 200
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "connect-src api.amplitude.com; font-src 'self' monicalimachi.cloud www.monicalimachi.cloud ; img-src 'self' 'unsafe-inline' monicalimachi.com www.monicalimachi.com; script-src-elem 'self' 'unsafe-inline' 'unsafe-eval' cdn.amplitude.com cdnjs.cloudflare.com  https://www.google-analytics.com; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com; object-src 'self'"
+    Content-Security-Policy = "default-src 'self'; font-src 'self'; img-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.amplitude.com cdnjs.cloudflare.com  https://www.google-analytics.com; style-src-attr 'unsafe-inline'; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com; object-src 'self'"
     # Content-Security-Policy-Report-Only = "default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://report-uri.com/r/d/csp/wizard"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=2592000; includeSubDomains"
