@@ -92,8 +92,8 @@ disableHugoGeneratorInject = false
 
 [taxonomies]
     category = "posts"
-    tag      = "tags"
-    series   = "series"
+    #tag      = "tags"
+    #series   = "series"
 
 [languages]
   [languages.en]
