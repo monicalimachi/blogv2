@@ -24,7 +24,7 @@ publishDir = "docs"
 
   # Metadata mostly used in document's head
   description = "My new homepage & blog"
-  keywords = "homepage, blog,about"
+  keywords = "homepage, blog, about"
   images = [""]
 
   # Set a background for the homepage
@@ -92,6 +92,28 @@ publishDir = "docs"
     name       = "About Me"
     url        = "/About"
 
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
 
 
 
