@@ -20,6 +20,8 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+enableInlineShortcodes = true
+
 
 [author]
   name = "Jane Doe"
@@ -89,6 +91,8 @@ disableHugoGeneratorInject = false
     mask = "#1b1c1d"
     msapplication = "#1b1c1d"
     theme = "#1b1c1d"
+  
+  
 
 [taxonomies]
     category = "posts"
